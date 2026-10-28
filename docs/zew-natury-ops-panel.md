@@ -6,8 +6,6 @@ Application details for Allegro administrators.
 
 **Owner:** Zew Natury, an online shop selling dog and cat food. Allegro account: zew-natury.
 
-**Contact:** stodulskimikolaj@gmail.com
-
 ## What it is
 
 An internal dashboard run on a single company computer. It is separate from our other Allegro app, "Zew Natury Dashboard", which is used by another internal tool. Each tool has its own app registration and its own tokens.
