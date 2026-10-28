@@ -1,0 +1,6 @@
+# Documentation only - everything except the files below is ignored
+*
+!.gitignore
+!README.md
+!docs/
+!docs/*.md
