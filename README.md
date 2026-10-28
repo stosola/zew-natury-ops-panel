@@ -22,5 +22,3 @@ The panel combines Allegro data with our own sales data: offer stats, product an
 ## This repository
 
 Documentation only. Source code, credentials, tokens and any customer or sales data stay on our side and are never committed here.
-
-Contact: stodulskimikolaj@gmail.com
